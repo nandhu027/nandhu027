@@ -1,6 +1,6 @@
 ## 👋🏻Hey there, I'm Nandhu
 
-# 💫 About Me:
+# About Me:
 Full Stack Developer building scalable web apps with React, Node.js, Express, and PostgreSQL.
 
 
